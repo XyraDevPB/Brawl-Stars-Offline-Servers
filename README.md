@@ -30,7 +30,7 @@ https://www.mediafire.com/file/8sqpv4d3iupl6pc/BrawlStars-v29-Offline.apk/file
 
 Credits
 
-Github Account - @HaccerCat
+Github Account - https://github.com/HaccerCat
 
 Discord Tag - S.B#0056
 
